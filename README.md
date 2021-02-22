@@ -8,5 +8,5 @@ mvn clean install
 
 Then run the wanted example:
 ```shell
-mvn exec:java "-Dexec.mainClass=tri.test.Main"
+mvn exec:java "-Dexec.mainClass=tri.test.hello.Main"
 ```
